@@ -4,7 +4,7 @@
 
 📍 Санкт-Петербург<br>
 
-✈️ [@viktorlysov](https://instagram.com/viktorlysv)
+✈️ [@viktorlysov](https://t.me/viktorlysov)
 ###
 
 ## Hard Skills
