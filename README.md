@@ -26,6 +26,11 @@
 ![Clickhouse](https://img.shields.io/badge/Clickhouse-badge?style=for-the-badge&logo=clickhouse&color=%230E3A53)
 ![Sublime Text](https://img.shields.io/badge/sublime%20text-badge?style=for-the-badge&logo=sublime%20text&color=%230E3A53)
 
+## 📁 Примеры моих проектов
+| Название проекта | Описание                                                                                                                           | Стек                                               |
+|------------------|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+|[Исследование рынка стартапов в исторической перспективе](https://github.com/viktor-lysov/projects/blob/main/startups_research/startups_research.ipynb)|Описание|`Python`, `pandas`, `matplotlib`, `seaborn`|
+
 ##
 ### 💬 Связь со мной
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/viktorlysov)
