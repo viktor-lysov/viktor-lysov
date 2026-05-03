@@ -23,7 +23,6 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-badge?style=for-the-badge&logo=google%20colab&color=%230E3A53)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-badge?style=for-the-badge&logo=jupyter&color=%230E3A53)
 ![Yandex Cloud](https://img.shields.io/badge/yandex%20cloud-badge?style=for-the-badge&logo=yandex%20cloud&color=%230E3A53)
-![Clickhouse](https://img.shields.io/badge/Clickhouse-badge?style=for-the-badge&logo=clickhouse&color=%230E3A53)
 ![Sublime Text](https://img.shields.io/badge/sublime%20text-badge?style=for-the-badge&logo=sublime%20text&color=%230E3A53)
 
 ## 📁 Примеры моих проектов
