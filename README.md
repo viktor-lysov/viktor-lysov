@@ -16,6 +16,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-badge?style=for-the-badge&logo=NumPy&color=%230E3A53)
 ![SciPy](https://img.shields.io/badge/SciPy-badge?style=for-the-badge&logo=SciPy&color=%230E3A53)
 ### 📊 Визуализация
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-badge?style=for-the-badge&color=%230E3A53)
 ![DataLens](https://img.shields.io/badge/Yandex%20DataLens-badge?style=for-the-badge&color=%230E3A53)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-badge?style=for-the-badge&color=%230E3A53)
 ![Seaborn](https://img.shields.io/badge/Seaborn-badge?style=for-the-badge&color=%230E3A53)
